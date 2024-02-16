@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZBUDI006_ABAPGIT_DEMO.
 
-WRITE: / 'Hallo Welt'.
+WRITE: / 'Hallo Developer'.
